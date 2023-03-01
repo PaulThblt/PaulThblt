@@ -1,7 +1,7 @@
 <p align="center"><img src="./bird_on_money_banner.jpg" alt="banner"><p>
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <div align="center">
-  <h3>A result-driven Developper studying at Epitech Paris</h3> <img src="epitech logo.png" alt="Epitech Logo" width=35 height=30>
+  <h3>A result-driven Developer studying at Epitech Paris</h3> <img src="epitech logo.png" alt="Epitech Logo" width=35 height=30>
 </div>
 
 - 📍 Currently studying abroad in **Berlin 🇩🇪**
