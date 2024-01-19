@@ -6,7 +6,7 @@
 
 - 📍 Currently studying abroad in **Berlin 🇩🇪**
 
-- 🌱 I’m currently learning **C++, Haskell and JavaScript**
+- 🌱 I’m currently learning **C++ and TypeScript**
 
 - 📫 How to reach me **paul.thiebault@epitech.eu**
 
