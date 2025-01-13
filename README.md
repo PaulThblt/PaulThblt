@@ -1,5 +1,5 @@
 <p align="center"><img src="./bird_on_money_banner.jpg" alt="banner"><p>
-  <h3>Im a passionate about design, Spotify playlists and writing clean and efficient TypeScipt code.</h3>
+  <h3>Im a passionate about design, Spotify playlists and writing clean and efficient TypeScript code.</h3>
 
 <h4>- My journey so far:</h4>
 
